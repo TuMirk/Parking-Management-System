@@ -1,2 +1,1 @@
-# Computer-Network-Project
-Still have no idea yet
+# Parking-Management-System
